@@ -34,7 +34,7 @@ Her Perşembe  [ 18:00 - 19:30 ] (Online)
 - Flutter için kurulum videosu hazırlayıp sizinle paylaşacağım.
     İndirme bağlantısı : https://flutter.dev/docs/get-started/install
 
-- Flutter hakkında daha fazla bilgi edinmek için : flutter.dev
+- Flutter hakkında daha fazla bilgi edinmek için : https://www.flutter.dev
 
 
 <p align="center">
