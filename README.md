@@ -2,6 +2,7 @@
 
 ## Gereklilikler
 1. Zoom Hesabı
+2. Android Studio
 
 ## Amaç
 Katılımcılara giriş seviyesinde Flutter ile mobil geliştirme tecrübesi kazandırmak.
